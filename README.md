@@ -1,6 +1,3 @@
-Download do Código Fonte
-👉 https://lp.balta.io/masterclass-mediator
-
 ## Introdução
 Olá e seja bem-vindo(a) ao curso Dominando Mediator do balta.io, eu sou André Baltieri, ou balta, 12x Microsoft MVP e vou te guiar por este curso.
 
